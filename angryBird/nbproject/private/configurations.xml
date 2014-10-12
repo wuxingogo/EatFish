@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="94">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name="Classes">
+        <in>AppDelegate.cpp</in>
+        <in>AppDelegate.h</in>
+        <in>Bird.cpp</in>
+        <in>Bird.h</in>
+        <in>GameData.cpp</in>
+        <in>GameData.h</in>
+        <in>GameScene.cpp</in>
+        <in>GameScene.h</in>
+        <in>HelloWorldScene.cpp</in>
+        <in>HelloWorldScene.h</in>
+        <in>Ice.cpp</in>
+        <in>Ice.h</in>
+        <in>JsonParser.cpp</in>
+        <in>JsonParser.h</in>
+        <in>LevelScene.cpp</in>
+        <in>LevelScene.h</in>
+        <in>Loading.cpp</in>
+        <in>Loading.h</in>
+        <in>MyContactListener.cpp</in>
+        <in>MyContactListener.h</in>
+        <in>Pig.cpp</in>
+        <in>Pig.h</in>
+        <in>SlingShot.cpp</in>
+        <in>SlingShot.h</in>
+        <in>SpriteBase.cpp</in>
+        <in>SpriteBase.h</in>
+        <in>StartScene.cpp</in>
+        <in>StartScene.h</in>
+      </df>
+      <df name="proj.android">
+        <df name="assets">
+          <df name="fonts">
+          </df>
+          <df name="Images">
+          </df>
+        </df>
+        <df name="bin">
+          <df name="classes">
+            <df name="hbsi">
+              <df name="dtd">
+                <df name="game">
+                </df>
+              </df>
+            </df>
+            <df name="org">
+              <df name="cocos2dx">
+                <df name="lib">
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="dexedLibs">
+          </df>
+          <df name="res">
+            <df name="crunch">
+              <df name="drawable-hdpi">
+              </df>
+              <df name="drawable-ldpi">
+              </df>
+              <df name="drawable-mdpi">
+              </df>
+            </df>
+          </df>
+          <df name="undeifned.apk_FILES">
+            <df name="assets">
+              <df name="fonts">
+              </df>
+              <df name="Images">
+              </df>
+            </df>
+            <df name="lib">
+              <df name="armeabi">
+              </df>
+            </df>
+            <df name="META-INF">
+            </df>
+            <df name="res">
+              <df name="drawable-hdpi">
+              </df>
+              <df name="drawable-ldpi">
+              </df>
+              <df name="drawable-mdpi">
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="gen">
+          <df name="hbsi">
+            <df name="dtd">
+              <df name="game">
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="jni">
+          <df name="hellocpp">
+            <in>main.cpp</in>
+          </df>
+        </df>
+        <df name="libs">
+          <df name="armeabi">
+          </df>
+        </df>
+        <df name="obj">
+          <df name="local">
+            <df name="armeabi">
+              <df name="objs">
+                <df name="box2d_static">
+                  <df name="Collision">
+                    <df name="Shapes">
+                    </df>
+                  </df>
+                  <df name="Common">
+                  </df>
+                  <df name="Dynamics">
+                    <df name="Contacts">
+                    </df>
+                    <df name="Joints">
+                    </df>
+                  </df>
+                  <df name="Rope">
+                  </df>
+                </df>
+                <df name="chipmunk_static">
+                  <df name="src">
+                    <df name="constraints">
+                    </df>
+                  </df>
+                </df>
+                <df name="cocos2dcpp_shared">
+                  <df name="__">
+                    <df name="__">
+                      <df name="Classes">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="hellocpp">
+                  </df>
+                </df>
+                <df name="cocos2dx_static">
+                  <df name="actions">
+                  </df>
+                  <df name="base_nodes">
+                  </df>
+                  <df name="cocoa">
+                  </df>
+                  <df name="draw_nodes">
+                  </df>
+                  <df name="effects">
+                  </df>
+                  <df name="kazmath">
+                    <df name="src">
+                      <df name="GL">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="keypad_dispatcher">
+                  </df>
+                  <df name="label_nodes">
+                  </df>
+                  <df name="layers_scenes_transitions_nodes">
+                  </df>
+                  <df name="menu_nodes">
+                  </df>
+                  <df name="misc_nodes">
+                  </df>
+                  <df name="particle_nodes">
+                  </df>
+                  <df name="platform">
+                    <df name="android">
+                      <df name="jni">
+                      </df>
+                    </df>
+                  </df>
+                  <df name="script_support">
+                  </df>
+                  <df name="shaders">
+                  </df>
+                  <df name="sprite_nodes">
+                  </df>
+                  <df name="support">
+                    <df name="component">
+                    </df>
+                    <df name="data_support">
+                    </df>
+                    <df name="image_support">
+                    </df>
+                    <df name="tinyxml2">
+                    </df>
+                    <df name="user_default">
+                    </df>
+                    <df name="zip_support">
+                    </df>
+                  </df>
+                  <df name="text_input_node">
+                  </df>
+                  <df name="textures">
+                  </df>
+                  <df name="tilemap_parallax_nodes">
+                  </df>
+                  <df name="touch_dispatcher">
+                  </df>
+                </df>
+                <df name="cocos_extension_static">
+                  <df name="AssetsManager">
+                  </df>
+                  <df name="CCArmature">
+                    <df name="animation">
+                    </df>
+                    <df name="datas">
+                    </df>
+                    <df name="display">
+                    </df>
+                    <df name="external_tool">
+                      <df name="Json">
+                        <df name="lib_json">
+                        </df>
+                      </df>
+                    </df>
+                    <df name="physics">
+                    </df>
+                    <df name="utils">
+                    </df>
+                  </df>
+                  <df name="CCBReader">
+                  </df>
+                  <df name="Components">
+                  </df>
+                  <df name="GUI">
+                    <df name="CCControlExtension">
+                    </df>
+                    <df name="CCEditBox">
+                    </df>
+                    <df name="CCScrollView">
+                    </df>
+                  </df>
+                  <df name="LocalStorage">
+                  </df>
+                  <df name="network">
+                  </df>
+                  <df name="physics_nodes">
+                  </df>
+                  <df name="spine">
+                  </df>
+                </df>
+                <df name="cocosdenshion_static">
+                  <df name="jni">
+                  </df>
+                  <df name="opensl">
+                  </df>
+                </df>
+                <df name="cpufeatures">
+                </df>
+              </df>
+            </df>
+          </df>
+        </df>
+        <df name="res">
+          <df name="drawable-hdpi">
+          </df>
+          <df name="drawable-ldpi">
+          </df>
+          <df name="drawable-mdpi">
+          </df>
+          <df name="drawable-xhdpi">
+          </df>
+          <df name="layout">
+          </df>
+          <df name="values">
+          </df>
+        </df>
+        <df name="src">
+          <df name="hbsi">
+            <df name="dtd">
+              <df name="game">
+              </df>
+            </df>
+          </df>
+          <df name="org">
+            <df name="cocos2dx">
+              <df name="lib">
+              </df>
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="proj.blackberry">
+        <df name="empty">
+        </df>
+        <in>main.cpp</in>
+      </df>
+      <df name="proj.ios">
+        <df name="undeifned.xcodeproj">
+        </df>
+        <in>AppController.h</in>
+        <in>AppController.mm</in>
+        <in>RootViewController.h</in>
+        <in>RootViewController.mm</in>
+        <in>main.m</in>
+      </df>
+      <df name="proj.linux">
+        <df name="bin">
+          <df name="debug">
+          </df>
+          <df name="release">
+          </df>
+        </df>
+        <df name="obj">
+          <df name="debug">
+            <df name="Classes">
+            </df>
+          </df>
+          <df name="release">
+            <df name="Classes">
+            </df>
+          </df>
+        </df>
+        <in>main.cpp</in>
+      </df>
+      <df name="proj.mac">
+        <df name="en.lproj">
+        </df>
+        <df name="undeifned.xcodeproj">
+        </df>
+        <in>AppController.h</in>
+        <in>AppController.mm</in>
+        <in>main.m</in>
+      </df>
+      <df name="proj.marmalade">
+        <df name="src">
+          <in>Main.cpp</in>
+          <in>Main.h</in>
+        </df>
+      </df>
+      <df name="proj.win32">
+        <in>main.cpp</in>
+        <in>main.h</in>
+      </df>
+      <df name="Resources">
+        <df name="fonts">
+        </df>
+        <df name="Images">
+        </df>
+      </df>
+    </df>
+  </logicalFolder>
+  <projectmakefile>proj.linux/Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}"</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}"</runcommand>
+        <rundir>proj.linux</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>

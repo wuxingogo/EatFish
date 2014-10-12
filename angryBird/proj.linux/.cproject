@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="cdt.managedbuild.toolchain.gnu.cross.base.754774873">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.toolchain.gnu.cross.base.754774873" moduleId="org.eclipse.cdt.core.settings" name="Default">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration buildProperties="" description="" id="cdt.managedbuild.toolchain.gnu.cross.base.754774873" name="Default" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="cdt.managedbuild.toolchain.gnu.cross.base.754774873.1192103140" name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.gnu.cross.base.31318770" name="cdt.managedbuild.toolchain.gnu.cross.base" superClass="cdt.managedbuild.toolchain.gnu.cross.base">
+							<option id="cdt.managedbuild.option.gnu.cross.prefix.1625269199" name="Prefix" superClass="cdt.managedbuild.option.gnu.cross.prefix"/>
+							<option id="cdt.managedbuild.option.gnu.cross.path.88360769" name="Path" superClass="cdt.managedbuild.option.gnu.cross.path"/>
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="cdt.managedbuild.targetPlatform.gnu.cross.162796268" isAbstract="false" osList="all" superClass="cdt.managedbuild.targetPlatform.gnu.cross"/>
+							<builder id="cdt.managedbuild.builder.gnu.cross.1581511043" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="cdt.managedbuild.builder.gnu.cross">
+								<outputEntries>
+									<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="outputPath" name=""/>
+								</outputEntries>
+							</builder>
+							<tool id="cdt.managedbuild.tool.gnu.cross.c.compiler.1650684767" name="Cross GCC Compiler" superClass="cdt.managedbuild.tool.gnu.cross.c.compiler">
+								<option id="gnu.c.compiler.option.include.paths.326237531" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx/platform/linux"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/CocosDenshion"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/plugin/tools/toolsForGame"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/lib/linux"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/external"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx/include"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1223903421" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.cross.cpp.compiler.450829073" name="Cross G++ Compiler" superClass="cdt.managedbuild.tool.gnu.cross.cpp.compiler">
+								<option id="gnu.cpp.compiler.option.include.paths.1941517391" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx/platform/linux"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/CocosDenshion"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/plugin/tools/toolsForGame"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/lib/linux"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/external"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx/include"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1896863678" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.cross.c.linker.2110502678" name="Cross GCC Linker" superClass="cdt.managedbuild.tool.gnu.cross.c.linker"/>
+							<tool id="cdt.managedbuild.tool.gnu.cross.cpp.linker.911542415" name="Cross G++ Linker" superClass="cdt.managedbuild.tool.gnu.cross.cpp.linker">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.744665257" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="cdt.managedbuild.tool.gnu.cross.archiver.4765563" name="Cross GCC Archiver" superClass="cdt.managedbuild.tool.gnu.cross.archiver"/>
+							<tool id="cdt.managedbuild.tool.gnu.cross.assembler.1540996650" name="Cross GCC Assembler" superClass="cdt.managedbuild.tool.gnu.cross.assembler">
+								<option id="gnu.both.asm.option.include.paths.606083743" name="Include paths (-I)" superClass="gnu.both.asm.option.include.paths" valueType="includePath">
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx/platform/linux"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/CocosDenshion"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/plugin/tools/toolsForGame"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/lib/linux"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/external"/>
+									<listOptionValue builtIn="false" value="/home/ly/workspace/cocos2d-x-2.1.4/cocos2d-x-2.1.4/cocos2dx/include"/>
+								</option>
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.188461881" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="proj.linux.null.27857408" name="proj.linux"/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Default">
+			<resource resourceType="PROJECT" workspacePath="/proj.linux"/>
+		</configuration>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.release.1345370861;cdt.managedbuild.config.gnu.exe.release.1345370861.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1754241599;cdt.managedbuild.tool.gnu.cpp.compiler.input.1960450905">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.cross.base.754774873;cdt.managedbuild.toolchain.gnu.cross.base.754774873.1192103140;cdt.managedbuild.tool.gnu.cross.c.compiler.1650684767;cdt.managedbuild.tool.gnu.c.compiler.input.1223903421">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.release.1345370861.1992170578;cdt.managedbuild.config.gnu.exe.release.1345370861.1992170578.;cdt.managedbuild.tool.gnu.c.compiler.exe.release.1869052171;cdt.managedbuild.tool.gnu.c.compiler.input.1196514567">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.base.1050505739;cdt.managedbuild.toolchain.gnu.base.1050505739.1147935882;cdt.managedbuild.tool.gnu.c.compiler.base.1375522363;cdt.managedbuild.tool.gnu.c.compiler.input.597843053">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.699705174.209325129;cdt.managedbuild.config.gnu.exe.debug.699705174.209325129.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1785395288;cdt.managedbuild.tool.gnu.cpp.compiler.input.1880061794">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.cross.base.754774873;cdt.managedbuild.toolchain.gnu.cross.base.754774873.1192103140;cdt.managedbuild.tool.gnu.cross.cpp.compiler.450829073;cdt.managedbuild.tool.gnu.cpp.compiler.input.1896863678">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.699705174;cdt.managedbuild.config.gnu.exe.debug.699705174.;cdt.managedbuild.tool.gnu.c.compiler.exe.debug.2041247495;cdt.managedbuild.tool.gnu.c.compiler.input.1712401455">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.699705174.209325129;cdt.managedbuild.config.gnu.exe.debug.699705174.209325129.;cdt.managedbuild.tool.gnu.c.compiler.exe.debug.219380601;cdt.managedbuild.tool.gnu.c.compiler.input.806213730">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.debug.699705174;cdt.managedbuild.config.gnu.exe.debug.699705174.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.405614352;cdt.managedbuild.tool.gnu.cpp.compiler.input.2029444877">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.release.1345370861;cdt.managedbuild.config.gnu.exe.release.1345370861.;cdt.managedbuild.tool.gnu.c.compiler.exe.release.1494845250;cdt.managedbuild.tool.gnu.c.compiler.input.558791653">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileC"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.config.gnu.exe.release.1345370861.1992170578;cdt.managedbuild.config.gnu.exe.release.1345370861.1992170578.;cdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1302416020;cdt.managedbuild.tool.gnu.cpp.compiler.input.716751530">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId="org.eclipse.cdt.managedbuilder.core.GCCManagedMakePerProjectProfileCPP"/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="cdt.managedbuild.toolchain.gnu.base.1050505739;cdt.managedbuild.toolchain.gnu.base.1050505739.1147935882;cdt.managedbuild.tool.gnu.cpp.compiler.base.1006863312;cdt.managedbuild.tool.gnu.cpp.compiler.input.2067683">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+</cproject>

@@ -1,0 +1,393 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/Images/bird2.png
+SHA1-Digest: gK/mr4Rqw3cdf6o5ilLiz0K3g4o=
+
+Name: assets/Images/3.png
+SHA1-Digest: MjG4lgYp3eCr1RXuGCMRJRVFzNU=
+
+Name: assets/Images/shelf1.png
+SHA1-Digest: C6HOUJZd57Y97FfeEBeOq1EXFkE=
+
+Name: assets/Images/bj3.png
+SHA1-Digest: 1ng5RiEIBZ5bxS9ELUJ8b3ByFL4=
+
+Name: assets/clock.png
+SHA1-Digest: +UVu2PGqVwii+2OkMPJHqMt21zo=
+
+Name: assets/Images/stonelong3.png
+SHA1-Digest: 2Djh3IIFpnnRwtFh5onDDwxBTQI=
+
+Name: assets/Images/Icon-Small-50.png
+SHA1-Digest: 2lco1hoj62OYWBbtnPkQxrIndhg=
+
+Name: assets/leftshot.png
+SHA1-Digest: ZyX0cvVL0GNuhX/IZYfKgxAtwZI=
+
+Name: assets/Images/SjApk_com_6231143.png
+SHA1-Digest: rmNl59jzuJdHFtaGkG62HBr2/sk=
+
+Name: assets/Images/stonelong1.png
+SHA1-Digest: PaylxuB6LQEvaTnb+RiAXBmxyvs=
+
+Name: assets/Images/stonelong2.png
+SHA1-Digest: j+XiMs/IoMIDqNnOIji5IzrBXJI=
+
+Name: assets/Images/Default.png
+SHA1-Digest: XLF21G3JWOs6RPiQjUqiTb8Ngnw=
+
+Name: assets/Images/ice3.png
+SHA1-Digest: 1z8NxKLM2w1Jxxq1KJs0Clia6y0=
+
+Name: assets/angrybird.png
+SHA1-Digest: pfC2uxSQ0jBJFAuoM4lHF9wFFI4=
+
+Name: assets/Images/littlewood2.png
+SHA1-Digest: twlBBpsqo7ERyZfITBpj+nVUziQ=
+
+Name: assets/Images/pig_11.png
+SHA1-Digest: 9UOf3pUmY47PN1zGzXQdnmknUDM=
+
+Name: assets/Images/SjApk_com_0180055.jpg
+SHA1-Digest: wflOw2emUkaAfQMnZf4J06N9l2Q=
+
+Name: assets/Images/100001.png
+SHA1-Digest: uf2ReetY7Och9iBRmsyupLUuK4A=
+
+Name: assets/ice1.png
+SHA1-Digest: hQWiHX/fbVd4/ZdwrbQXso5SMt0=
+
+Name: assets/Images/shortwood2.png
+SHA1-Digest: 3OyfcKTpzNfuxhl4lJMGrvpq9QA=
+
+Name: assets/Images/ice4.png
+SHA1-Digest: KWEDNyv1nvDvMeA30kgh0WgRdyU=
+
+Name: assets/Images/star2.png
+SHA1-Digest: 8gHBPJ7X0RBt+tTyRSLQqL1riCg=
+
+Name: assets/Images/bird-explosion.plist
+SHA1-Digest: scAd7IUt07wNnb4lgjbFIY9FJC4=
+
+Name: assets/Images/bird3.png
+SHA1-Digest: jiukujrwW0aXLxYB4m3gyrnXvTM=
+
+Name: assets/Images/bird_22.png
+SHA1-Digest: DDsnmfv+OCgFVvtyh6nB4Z++KGE=
+
+Name: assets/Images/yumao3.png
+SHA1-Digest: zLVT55gcU9QinVsbso7DxQPfLfA=
+
+Name: assets/Images/restart.png
+SHA1-Digest: T4/SAzx8On7H1LKFGi/eQhvVyQQ=
+
+Name: assets/Images/littleice1.png
+SHA1-Digest: IQ9TAFUt1BNvMZhQ7snNdsoX1po=
+
+Name: assets/Images/startbg.png
+SHA1-Digest: b7O17LtECeE5+1S2js1QYKGTGZQ=
+
+Name: assets/Images/bg.png
+SHA1-Digest: 0VqAvpFDWXMyC44sy/xeDjDkerQ=
+
+Name: assets/Images/pig-33.png
+SHA1-Digest: lxl0rcS0q0aPNaAIdm/2Za8Va9Q=
+
+Name: assets/Images/littlewood3.png
+SHA1-Digest: b7JlD3OlwpXOxGjFDxvWNKOuNyg=
+
+Name: resources.arsc
+SHA1-Digest: Hiqt665KLf+2tZkFuOCwRrtxUsU=
+
+Name: assets/bird1.png
+SHA1-Digest: dGxFj+7dvj669LeSk1Y3CF+TsNI=
+
+Name: assets/Images/Icon-Small.png
+SHA1-Digest: VhVlP3mwyUY2LuBCIWNGArTV+WE=
+
+Name: assets/Images/pig_4.png
+SHA1-Digest: 27Q1md1qBI8tUrJMLFvZtYqYI50=
+
+Name: assets/bg.png
+SHA1-Digest: 0VqAvpFDWXMyC44sy/xeDjDkerQ=
+
+Name: assets/Images/bird1.png
+SHA1-Digest: dGxFj+7dvj669LeSk1Y3CF+TsNI=
+
+Name: assets/Images/pig1.png
+SHA1-Digest: hEjgzsgq1jkSK6wXnEowMMZ9eBM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Cuit4AQ5p7gBojkmBLTY24zLvOc=
+
+Name: assets/rightshot.png
+SHA1-Digest: eu/A0Gnz7hp8Jcn6NBI5IPYzibM=
+
+Name: assets/fonts/Marker Felt.ttf
+SHA1-Digest: Ul8qSkVFD87LPYpf1H07D0hPYps=
+
+Name: assets/Images/stone2.png
+SHA1-Digest: z4ftrkxiR3Z4umYoQsgI6uhZWI4=
+
+Name: assets/Images/littleice2.png
+SHA1-Digest: jSym36FYZIIEudzzm0CNA1BLf04=
+
+Name: assets/Images/100004.png
+SHA1-Digest: oTUMx+rr931eQ51KOfSTz6YGbHU=
+
+Name: assets/Images/circlewood3.png
+SHA1-Digest: UjIBnrpq58romJHHP0tPLDcKubo=
+
+Name: assets/Images/shortwood4.png
+SHA1-Digest: g1bvaclqBrp9obtrLAIlV4Svlrc=
+
+Name: assets/Images/loading@2x.png
+SHA1-Digest: VO0m/5LI1XOGAdZFd+Gjxl/qqn8=
+
+Name: assets/Images/Icon-250.png
+SHA1-Digest: MJ9hOM10nsH4H9UdW4+SfK2csnA=
+
+Name: assets/Images/pig_44.png
+SHA1-Digest: UIYqpu8fFg7QtkIHYHOBLgVQOZk=
+
+Name: classes.dex
+SHA1-Digest: bodghbEb/WkyLrrVc53WrVFF2W8=
+
+Name: assets/Images/stonelong4.png
+SHA1-Digest: TPK7Kko7+k4/uZ6earzNKWhf4I4=
+
+Name: assets/Images/bj2.png
+SHA1-Digest: oUdgfgaJRTlQKiWvj3mbhtSeiz8=
+
+Name: assets/Images/bird_11.png
+SHA1-Digest: vEZuKqik8xNE7BVyg0OxEXcUam0=
+
+Name: assets/Images/littlewood1.png
+SHA1-Digest: h9cmVrLq702XvmOQ/szr+grqh2k=
+
+Name: assets/Images/shortwood3.png
+SHA1-Digest: buRwioCCZtgPlWrw4pgflbtHvDo=
+
+Name: assets/Images/yellowbird1.png
+SHA1-Digest: Cx9N7rAuweLkpVz2Audoo/XXYKE=
+
+Name: assets/Images/bird_33.png
+SHA1-Digest: 3hkReaXOSCt44lxFKcUePM9PTm0=
+
+Name: assets/Images/finish.png
+SHA1-Digest: +PJyWHbGA5Me6ppE53frymhTlks=
+
+Name: assets/Images/Icon-72.png
+SHA1-Digest: G7jLSwYPH1SSU4HvwZXYgqA9gzo=
+
+Name: assets/Images/clock.png
+SHA1-Digest: +UVu2PGqVwii+2OkMPJHqMt21zo=
+
+Name: assets/Images/star0.png
+SHA1-Digest: M5g2rlwTu5frsn2xxVJxjYv8mcc=
+
+Name: assets/Images/littlestone1.png
+SHA1-Digest: ZwIciL5g9vrWucrPZK1IY0WHziI=
+
+Name: assets/Images/circlewood2.png
+SHA1-Digest: 6WZ4qqstjFlsAwi4eKYDpJplK8Q=
+
+Name: assets/Images/start.png
+SHA1-Digest: +XENoSrlNxl0mIr++W7Tm+7fTFo=
+
+Name: assets/loading.png
+SHA1-Digest: 0BQbt5Eo8WYIzDGZNJ3DET9vByg=
+
+Name: assets/Images/backarrow.png
+SHA1-Digest: j618ulW8SCZkfavYY/FrNxAxOU8=
+
+Name: assets/Images/next.png
+SHA1-Digest: gYi5tFOzLLH2/4tuF34VJOUezRM=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: cQ3w5oXjP5DpLByk5c8F/LUcex4=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: u5cm0bYz9wbXlHD4n60oilbdZcU=
+
+Name: assets/Images/littlestone3.png
+SHA1-Digest: snEKBXawAT5EbwFrs2q2AJLH+zo=
+
+Name: assets/Images/yumao1.png
+SHA1-Digest: rAGK5SlJMFfuhVKSbDWUfGYq7SA=
+
+Name: assets/Images/star3.png
+SHA1-Digest: IJ6/J+s4wES9HnUiZGMTw3O0uuw=
+
+Name: assets/HelloWorld.png
+SHA1-Digest: tlCDturH7ovoyz2c7+EM3+0ot7A=
+
+Name: assets/Images/circlewood4.png
+SHA1-Digest: IKXRkR1/FQ9326ZB/0htwdKeMBg=
+
+Name: assets/Images/wood2.png
+SHA1-Digest: YmabIAvTQCHt+qWJaiLIy01Gplk=
+
+Name: assets/Images/ice1.png
+SHA1-Digest: hQWiHX/fbVd4/ZdwrbQXso5SMt0=
+
+Name: assets/Images/2.png
+SHA1-Digest: el2Ujp0eDApMDXQ9pgLXvxCvRcY=
+
+Name: assets/Images/bluebird1.png
+SHA1-Digest: qBPZyhXrEEj11zubF4Bo2pyHZgk=
+
+Name: assets/backarrow.png
+SHA1-Digest: j618ulW8SCZkfavYY/FrNxAxOU8=
+
+Name: assets/Images/leftshot.png
+SHA1-Digest: ZyX0cvVL0GNuhX/IZYfKgxAtwZI=
+
+Name: assets/startbg.png
+SHA1-Digest: b7O17LtECeE5+1S2js1QYKGTGZQ=
+
+Name: assets/Images/menu.png
+SHA1-Digest: /bofClNlG9KGO7rTXQGWsCaSih0=
+
+Name: assets/Images/stone3.png
+SHA1-Digest: 6tpzdoEMooMcpOSosuIKGCbqc8s=
+
+Name: assets/Images/wood1.png
+SHA1-Digest: YekBxwXcxv8ub7BqAEd2seXf9nc=
+
+Name: assets/Images/yumao2.png
+SHA1-Digest: ewgvs3c1g4ujQgq96aWKFUrUZ3A=
+
+Name: assets/Images/Icon@2x.png
+SHA1-Digest: vv+bEkWAukmVkjgRMrGLwF9k/o8=
+
+Name: assets/Images/stone1.png
+SHA1-Digest: BKmOE+iZFjsoMgwGDjyH915edbY=
+
+Name: assets/Images/angrybird.png
+SHA1-Digest: pfC2uxSQ0jBJFAuoM4lHF9wFFI4=
+
+Name: assets/Images/ice2.png
+SHA1-Digest: lU9VTX7gwmXABmGdYYM/Paf7av8=
+
+Name: assets/Images/pig_55.png
+SHA1-Digest: CdYFeKExsRiiAN9i/h03vGH0daU=
+
+Name: assets/Images/circlewood1.png
+SHA1-Digest: wFG2z4ezAoZBqFXX/0iPCqlXbEM=
+
+Name: assets/Images/littlestone2.png
+SHA1-Digest: z9qxUwMlBeUSOBt7UISqj5nGwRY=
+
+Name: assets/Images/100003.png
+SHA1-Digest: 4k9tnri3o6OAYhBQduxCb3IQ+0U=
+
+Name: assets/Images/pig_2.png
+SHA1-Digest: /6Q/ECsrFLqYn+OgycUcphXpID4=
+
+Name: assets/start.png
+SHA1-Digest: +XENoSrlNxl0mIr++W7Tm+7fTFo=
+
+Name: assets/Images/Default@2x.png
+SHA1-Digest: dOi7LBUUek8MFF12tnph5wEw4YM=
+
+Name: assets/Images/start@2x.png
+SHA1-Digest: aC0+1mvxfqGIsc+MTTB7My/vFL4=
+
+Name: assets/Images/stone4.png
+SHA1-Digest: fMcFIkNmVKy8+H0lYNtPja2czAk=
+
+Name: assets/Images/1.png
+SHA1-Digest: E/uuXmBUujR8vbfs/1PQ4e0FpOA=
+
+Name: assets/Images/star1.png
+SHA1-Digest: Px2nGRgXvev9lo92w58u0ZKP6No=
+
+Name: assets/Images/shelf3.png
+SHA1-Digest: +uNdfg9eGeEpmF+sCzmGuGbS7Uc=
+
+Name: assets/Images/loading.png
+SHA1-Digest: 0BQbt5Eo8WYIzDGZNJ3DET9vByg=
+
+Name: assets/CloseSelected.png
+SHA1-Digest: jAGLZR1Zw3vujySy5fwK5FRJTgA=
+
+Name: assets/CloseNormal.png
+SHA1-Digest: /QGcO1MOwaLN1VS5dk86sEDqqKA=
+
+Name: assets/Images/pig_3.png
+SHA1-Digest: LC+O8pvmnWSZwQeldvLx6FB78KE=
+
+Name: assets/Images/selectlevel.png
+SHA1-Digest: LmoqHvUD0iC8OB1LKEff1yfROYw=
+
+Name: assets/Images/shortwood1.png
+SHA1-Digest: p+aImRS/LJwZmusEIco4eJWLlYA=
+
+Name: assets/Images/wood4.png
+SHA1-Digest: VIve8HH9JNieiFev1+uB+lFYYPA=
+
+Name: assets/Images/pig_22.png
+SHA1-Digest: GkrcsMQyot7iB+NAqGvKHwpZMd8=
+
+Name: assets/Images/bird_44.png
+SHA1-Digest: IXDhyKrerKiw+9xfVEsJrrByiKg=
+
+Name: assets/level.png
+SHA1-Digest: t5JH3NpfxDYBOAWh/uPQjlY85ME=
+
+Name: assets/Images/littleice3.png
+SHA1-Digest: Gr26+wxwQDusLBW3Ftncm9mTZxI=
+
+Name: assets/Images/shelf4.png
+SHA1-Digest: ZaoBTvAw8bI1jY6g0YzOnIgr1cs=
+
+Name: assets/Images/level.png
+SHA1-Digest: t5JH3NpfxDYBOAWh/uPQjlY85ME=
+
+Name: assets/Images/angrybird@2x.png
+SHA1-Digest: FrKwJEOrwQzQfxODAPENGkGpQFs=
+
+Name: assets/Images/selectlevel@2x.png
+SHA1-Digest: 4sMeCA+k9bb9ULFDGFken7LqgBY=
+
+Name: assets/pig1.png
+SHA1-Digest: hEjgzsgq1jkSK6wXnEowMMZ9eBM=
+
+Name: assets/Images/snow.png
+SHA1-Digest: sUted6idwSrjwqTLCrF4eFBdPeg=
+
+Name: assets/Images/rightshot.png
+SHA1-Digest: eu/A0Gnz7hp8Jcn6NBI5IPYzibM=
+
+Name: assets/Images/5000.png
+SHA1-Digest: dyNrZSxYMl/HmLe1GW/cqAWoFqk=
+
+Name: assets/Images/4.png
+SHA1-Digest: qYb5/CD+ym1RJxSbamBZL8ZhX2A=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA1-Digest: 6FS/Fx6sBOWd0fpongpk1cjAoSg=
+
+Name: assets/Images/Icon-Small@2x.png
+SHA1-Digest: Hrbm33lUr6a2sD7bT7x5hzN+mlc=
+
+Name: assets/selectlevel.png
+SHA1-Digest: LmoqHvUD0iC8OB1LKEff1yfROYw=
+
+Name: assets/Images/shelf2.png
+SHA1-Digest: gEhWDIPdQwL99vcf2jeZkIaQ5fQ=
+
+Name: assets/Images/wood3.png
+SHA1-Digest: fy5Z5wTyZb5jfmmHc46jtt1cj/k=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: nFMzxotJRQ5x1a+HbINp/MxJsGA=
+
+Name: assets/Images/Icon.png
+SHA1-Digest: f+M56PSFessKM7gv3jyKV9leNks=
+
+Name: assets/Images/100002.png
+SHA1-Digest: hjW07ow1ZuTjXdRfImhHyuPUu9Q=
+

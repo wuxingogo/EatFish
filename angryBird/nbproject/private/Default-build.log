@@ -1,0 +1,14 @@
+ CXX obj/release/main.o
+ CXX obj/release/Classes/AppDelegate.o
+ CXX obj/release/Classes/HelloWorldScene.o
+ CXX obj/release/Classes/Loading.o
+ CXX obj/release/Classes/StartScene.o
+ CXX obj/release/Classes/LevelScene.o
+ CXX obj/release/Classes/GameScene.o
+ CXX obj/release/Classes/SlingShot.o
+ CXX obj/release/Classes/SpriteBase.o
+ CXX obj/release/Classes/Bird.o
+ CXX obj/release/Classes/Pig.o
+ CXX obj/release/Classes/Ice.o
+ CXX obj/release/Classes/MyContactListener.o
+ LINK bin/release/undeifned
