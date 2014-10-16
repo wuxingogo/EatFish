@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+b5b5eec01c8b2c57d54a714b0944c808 CMakeFiles/MyGame_CORE_PRE_BUILD
+b5b5eec01c8b2c57d54a714b0944c808 CMakeFiles/MyGame_PRE_BUILD

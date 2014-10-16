@@ -1,0 +1,13 @@
+/home/ly/cocos2d-project/MyGame/proj.linux/CMakeFiles/MyGame.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/CMakeFiles/MyGame_CORE_PRE_BUILD.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/CMakeFiles/MyGame_PRE_BUILD.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/cocos/audio/CMakeFiles/audio.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/external/chipmunk/src/CMakeFiles/chipmunk_static.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/cocos/CMakeFiles/cocos2d.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/cocos/editor-support/cocosbuilder/CMakeFiles/cocosbuilder.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/cocos/editor-support/cocostudio/CMakeFiles/cocostudio.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/extensions/CMakeFiles/extensions.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/cocos/editor-support/spine/CMakeFiles/spine.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/external/tinyxml2/CMakeFiles/tinyxml2.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/external/unzip/CMakeFiles/unzip.dir
+/home/ly/cocos2d-project/MyGame/proj.linux/cocos2d/external/xxhash/CMakeFiles/xxhash.dir

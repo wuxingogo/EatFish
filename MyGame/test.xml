@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C++ Source File">
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C++ Source File">
+<macro>
+<name>CC_DLL</name><value/>
+</macro>
+<macro>
+<name>LINUX</name><value>1</value>
+</macro>
+<macro>
+<name>__cplusplu</name><value>201103L</value>
+</macro>
+<macro>
+<name>-std</name><value>c++11</value>
+</macro>
+
+</language>
+<language name="C Source File">
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
